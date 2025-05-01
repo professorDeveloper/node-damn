@@ -1,0 +1,20 @@
+{
+  "name": "4.express-framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azamov",
+  "license": "ISC",
+  "keywords": [],
+  "description": "Express simple",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/professorDeveloper/node-damn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/professorDeveloper/node-damn/issues"
+  },
+  "homepage": "https://github.com/professorDeveloper/node-damn#readme"
+}
