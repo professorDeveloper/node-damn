@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/professorDeveloper/node-damn/issues"
   },
-  "homepage": "https://github.com/professorDeveloper/node-damn#readme"
+  "homepage": "https://github.com/professorDeveloper/node-damn#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
